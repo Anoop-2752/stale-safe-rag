@@ -1,6 +1,3 @@
-# stale-safe-rag
-
-
 
 # Stale-Safe RAG
 
@@ -34,7 +31,7 @@ conda activate stalerag
 pip install -r requirements.txt
 ```
 
-Create a `.env` file (copy from `.env.example`):
+Create a `.env` file 
 
 ## Usage
 
