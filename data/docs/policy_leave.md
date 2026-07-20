@@ -1,6 +1,6 @@
 # Leave Policy
 
-Employees are entitled to 18 days of paid annual leave per calendar year. Leave accrues monthly at a rate of 1.5 days per month.
+Employees are entitled to 22 days of paid annual leave per calendar year. Leave accrues monthly at a rate of 1.5 days per month.
 
 Sick leave is separate from annual leave. Employees get 12 days of paid sick leave per year, and a medical certificate is required for absences longer than 2 consecutive days.
 
